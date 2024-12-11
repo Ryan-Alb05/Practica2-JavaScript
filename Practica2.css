@@ -9,40 +9,8 @@ body {
     height: 100vh;
 }
 
-div {
-    background: wheat;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    width: 300px;
-    text-align: center;
-}
 
-header h1 {
+h1 {
     margin-bottom: 20px;
-    color: #333;
-}
-
-label {
-    display: block;
-    margin-bottom: 8px;
-    font-weight: bold;
-}
-
-input[type="number"] {
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 8px;
-    width: 100%;
-    box-sizing: border-box;
-    margin-bottom: 20px;
-}
-
-#Calcular {
-    background-color: #007bff;
-    border: none;
-    color: white;
-    padding: 10px 20px;
-    border-radius: 4px;
-    cursor: pointer;
+    color: #00c3ff;
 }
